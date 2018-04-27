@@ -1,0 +1,9 @@
+/eBikeAPI/target
+/eBikeAPI/stacktrace.log
+/eBikeAPI/*.war
+/eBikeAPI/*/eclipse
+*/.link_to_grails_plugins
+/eBikeAPI/plugins
+*.iml
+*.idea
+
